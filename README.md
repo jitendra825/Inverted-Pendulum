@@ -23,7 +23,9 @@ Swing UP and LQR Control for balancing at the TOP.
 
 FOR MORE INFORMATION
 visit it
+
 Documents: https://drive.google.com/file/d/1W2v3wKXBVW4FohB33kTv8iBEiOFgoS8d/view
+
 Video: https://www.youtube.com/watch?v=PdHCj_Ezz8Y
 
 YouTube Playlist: https://www.youtube.com/watch?v=OwztCYKkG_o&list=PLaG3rSN23NKrxD0JvVlPguZEdHsfbitl3
