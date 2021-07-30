@@ -1,6 +1,7 @@
 # Inverted-Pendulum
 
 ![IP_code_simulation](https://user-images.githubusercontent.com/88198964/127679261-1982b59d-c239-44f1-b1dc-bf42f00caeeb.gif)
+
 This is the Matlab code for design Swing up & balance Control for Inverted Pendulum
 Code written by Jitendra Singh.
 
@@ -24,4 +25,5 @@ FOR MORE INFORMATION
 visit it
 Documents: https://drive.google.com/file/d/1W2v3wKXBVW4FohB33kTv8iBEiOFgoS8d/view
 Video: https://www.youtube.com/watch?v=PdHCj_Ezz8Y
+
 YouTube Playlist: https://www.youtube.com/watch?v=OwztCYKkG_o&list=PLaG3rSN23NKrxD0JvVlPguZEdHsfbitl3
