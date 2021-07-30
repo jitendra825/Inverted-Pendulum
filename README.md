@@ -3,14 +3,17 @@
 ![IP_code_simulation](https://user-images.githubusercontent.com/88198964/127679261-1982b59d-c239-44f1-b1dc-bf42f00caeeb.gif)
 
 This is the Matlab code for design Swing up & balance Control for Inverted Pendulum
+
 Code written by Jitendra Singh.
 
 IP_code simulation Folder contains 2 .m files such as:
  1. IP_LQR_code.m file to simulate LQR control for balance Inverted Pendulum at the top (@180 degree)
  2. IP_SwingUp_Lqr_Control.m file to simulate Swing up control & LQR for Balance at the top.
+ 
 other .m functions files are used by above main simulation files for Animation & ODE solving of Inverted Pendulum
 
 To run suimulation:
+
 A) LQR CONTROL FOR BALANCING AT TOP (@180 degree):
 1. open IP_LQR_code.m file in MATLAB
 2. To simulate it, just run this code
